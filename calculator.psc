@@ -15,5 +15,5 @@ Algoritmo calculadora
 		Escribir "tu resultado es " , res
 	FinSi
 		
-	
+
 FinAlgoritmo
